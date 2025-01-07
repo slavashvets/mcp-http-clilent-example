@@ -1,0 +1,11 @@
+[project]
+name = "test-mcp-client"
+version = "0.1.0"
+description = "Add your description here"
+authors = [
+    { name = "Vyacheslav Shvets", email = "v.shvets@telekom.com" }
+]
+requires-python = ">=3.12"
+dependencies = [
+    "mcp>=1.2.0",
+]
