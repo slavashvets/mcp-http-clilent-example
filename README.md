@@ -8,12 +8,10 @@ Uses the official [MCP Python SDK](https://github.com/modelcontextprotocol/pytho
 
 - Connects to MCP servers over SSE transport
 - Lists available tools, resources and prompts
-- Makes tool calls to server
 - Properly handles connection lifecycle with async context managers
 
 ## Requirements
 
-- Python 3.12 or higher
 - [uv](https://github.com/astral-sh/uv)
 
 ## Usage
